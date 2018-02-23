@@ -1,0 +1,76 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.container {
+  max-width: 960px;
+}
+
+.pricing-header {
+  max-width: 700px;
+}
+
+.navigasi {
+  background-color: #52b7d3;
+  color: white;
+}
+
+span {
+  font-family: 'Permanent Marker';
+  letter-spacing: 0.1em;
+  color: white;
+  text-shadow: 2px 2px #52b7d3;
+}
+
+.carousel {
+  margin-top: -18px;;
+}
+
+.card-deck .card {
+  min-width: 220px;
+}
+
+.card-header {
+  background-color: #ffd2d5;
+}
+
+.card-body img {
+  margin-bottom: 10px;
+}
+
+.card-footer {
+  background: white;
+  border: none;
+  margin-bottom: 10px;
+  margin-top: -20px;
+}
+
+.card-footer a:link {
+  text-decoration: none;
+}
+
+.border-top { border-top: 1px solid #e5e5e5; }
+.border-bottom { border-bottom: 1px solid #e5e5e5; }
+
+.box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
+
+body, html {
+  /* The image used */
+  /* background: url("images/face.jpg"); */
+  /* background-color: lightyellow;  */
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
