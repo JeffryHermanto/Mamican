@@ -4,7 +4,7 @@
 
 **Visit Project at [www.mamican.id](https://www.mamican.id)**
 
-![Mamican](http://jhproject.id/img/portfolio/Mamican.png)
+![Mamican](http://jhproject.id/images/portfolio/Mamican.png)
 
 #### Jeffry Hermanto _jeffryhermanto@gmail.com_
 
