@@ -2,9 +2,9 @@
 
 > Beauty services by Mamican.
 
-**Visit Project at [www.mamican.id](https://www.mamican.id)**
+**[Visit Project](https://jeffryhermanto.github.io/Mamican)**
 
-![Mamican](http://jhproject.id/images/portfolio/Mamican.png)
+![screenshot](screenshot.png)
 
 #### Jeffry Hermanto _jeffryhermanto@gmail.com_
 
